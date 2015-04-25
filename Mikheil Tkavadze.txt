@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="normalize.css">
+  <title>GeoLab Test Mockup - Mikheil Tkavadze</title>
+</head>
+<body>
+  <header id="header">
+    <nav>
+      <div>Logo</div>
+      <div>Link</div>
+      <div>Link</div>
+      <div>Link</div>
+      <div>Link</div>
+    </nav>
+  </header>
+  <main id="main">
+    <section id="section1">
+      <div class="article">This is an article!</div>
+      <div class="article">This is an article!</div>
+      <div class="article">This is an article!</div>
+    </section>
+    <section id="section2">
+      <div class="article">This is an article!</div>
+      <div class="article">This is an article!</div>
+      <div class="article">This is an article!</div>
+    </section>
+    <section id="section3">
+      <div class="article">This is an article!</div>
+      <div class="article">This is an article!</div>
+      <div class="article">This is an article!</div>
+    </section>
+  </main>
+  <footer id="footer">
+    <div>Navigation</div>
+    <div></div>
+    <div></div>
+  </footer>
+</body>
+</html>
